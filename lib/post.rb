@@ -1,4 +1,4 @@
-class post
+class Post
 
 attr_accessor :name, :author
 
@@ -13,6 +13,6 @@ attr_accessor :name, :author
       nil
     end
   end
-  
+
 
 end
